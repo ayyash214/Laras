@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\crc2byte\crc2byte\bin\Debug\crc2byte.exe.config
+C:\Users\acer\Desktop\crc2byte\crc2byte\bin\Debug\crc2byte.exe
+C:\Users\acer\Desktop\crc2byte\crc2byte\bin\Debug\crc2byte.pdb
+C:\Users\acer\Desktop\crc2byte\crc2byte\obj\Debug\crc2byte.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\crc2byte\crc2byte\obj\Debug\crc2byte.Form1.resources
+C:\Users\acer\Desktop\crc2byte\crc2byte\obj\Debug\crc2byte.Properties.Resources.resources
+C:\Users\acer\Desktop\crc2byte\crc2byte\obj\Debug\crc2byte.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\crc2byte\crc2byte\obj\Debug\crc2byte.exe
+C:\Users\acer\Desktop\crc2byte\crc2byte\obj\Debug\crc2byte.pdb
